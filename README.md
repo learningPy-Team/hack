@@ -1,3 +1,3 @@
 #LearningPy Team
 
-c
+channel rubika: http://rubika.ir/learningPy
