@@ -1,3 +1,3 @@
 LearningPy Team
 
-channel rubika: rubika.ir/learningPy
+https://rubika.ir/learningPy
